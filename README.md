@@ -9,3 +9,9 @@ Import Log to view: https://netlog-viewer.appspot.com/#import </br>
 
 <h3>Json/Swagger file manipulate online</h3>
 https://jsoneditoronline.org/#left=local.dojehu&right=local.meqike
+
+<h3> Check Host file in Mac </h3>
+20.167.64.190 api-nonprod.ebet.com.au
+
+<h3> Update Host file in Mac </h3>
+sudo zsh -c "echo '[ipaddress] [domainName]' >> /etc/hosts"
