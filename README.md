@@ -15,3 +15,8 @@ https://jsoneditoronline.org/#left=local.dojehu&right=local.meqike
 
 <h3> Update Host file in Mac </h3>
 sudo zsh -c "echo '[ipaddress] [domainName]' >> /etc/hosts"
+
+<h3>Create password protected Zip</h3>
+zip -er zipname.zip foldername </br>
+MoreInfo: https://www.sysgeeker.com/blog/how-to-create-password-protected-zip-file-on-mac.html </br>
+
