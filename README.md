@@ -20,3 +20,6 @@ sudo zsh -c "echo '[ipaddress] [domainName]' >> /etc/hosts"
 zip -er zipname.zip foldername </br>
 MoreInfo: https://www.sysgeeker.com/blog/how-to-create-password-protected-zip-file-on-mac.html </br>
 
+<h3>Install python moodule</h3>
+python3 -m pip install openai <br/>
+
