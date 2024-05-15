@@ -23,3 +23,7 @@ MoreInfo: https://www.sysgeeker.com/blog/how-to-create-password-protected-zip-fi
 <h3>Install python moodule</h3>
 python3 -m pip install openai <br/>
 
+<h3>Get User PrincipleId from Azure Cli</h3>
+<p> az ad user list --filter "displayName eq 'Himel Nath'"</p>
+<p>grab the "id"</p>
+
