@@ -27,3 +27,6 @@ python3 -m pip install openai <br/>
 <p> az ad user list --filter "displayName eq 'Himel Nath'"</p>
 <p>grab the "id"</p>
 
+<h3>Quickly Draw on browser</h3>
+<a>https://excalidraw.com/</a>
+
