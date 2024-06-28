@@ -30,3 +30,7 @@ python3 -m pip install openai <br/>
 <h3>Quickly Draw on browser</h3>
 <p>https://excalidraw.com/ </p>
 
+<h3>Get SiteId from sharepoint</h3>
+<p> https://<tenant>.sharepoint.com/sites/<site-url>/_api/site/id</p>
+<p>Ref: https://www.sharepointdiary.com/2018/04/sharepoint-online-powershell-to-get-site-collection-web-id.html </p>
+
