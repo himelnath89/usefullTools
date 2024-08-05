@@ -44,3 +44,10 @@ python3 -m pip install openai <br/>
 <p> npm install --save @fluentui/react-icons@latest</p>
 <p>Ref: https://stackoverflow.com/questions/49828493/upgrading-react-version-and-its-dependencies-by-reading-package-json </p>
 
+<h3>Build react app</h3>
+<p> npm install; npm run build</p>
+
+<h3>Clean up packages in react</h3>
+<p> rm package-lock.json && rm -rf node_modules && npm install</p>
+
+
