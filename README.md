@@ -34,3 +34,11 @@ python3 -m pip install openai <br/>
 <p> https://<tenant>.sharepoint.com/sites/<site-url>/_api/site/id</p>
 <p>Ref: https://www.sharepointdiary.com/2018/04/sharepoint-online-powershell-to-get-site-collection-web-id.html </p>
 
+<h3>Upadate react versions for all package</h3>
+<p> npm audit fix --force</p>
+<p>Ref: https://stackoverflow.com/questions/49828493/upgrading-react-version-and-its-dependencies-by-reading-package-json </p>
+
+<h3>Upadate react specific versions</h3>
+<p> npm install --save @fluentui/react-icons@latest</p>
+<p>Ref: https://stackoverflow.com/questions/49828493/upgrading-react-version-and-its-dependencies-by-reading-package-json </p>
+
