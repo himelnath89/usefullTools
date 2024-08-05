@@ -36,6 +36,8 @@ python3 -m pip install openai <br/>
 
 <h3>Upadate react versions for all package</h3>
 <p> npm audit fix --force</p>
+<p> OR </p>
+<p> npm update --save</p>
 <p>Ref: https://stackoverflow.com/questions/49828493/upgrading-react-version-and-its-dependencies-by-reading-package-json </p>
 
 <h3>Upadate react specific versions</h3>
