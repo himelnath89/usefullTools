@@ -41,7 +41,7 @@ python3 -m pip install openai <br/>
 <p>Ref: https://stackoverflow.com/questions/49828493/upgrading-react-version-and-its-dependencies-by-reading-package-json </p>
 
 <h3>Upadate react specific versions</h3>
-<p> npm install --save @fluentui/react-icons@latest</p>
+<p> npm install --save @fluentui/react-icons@latest --legacy-peer-deps</p>
 <p>Ref: https://stackoverflow.com/questions/49828493/upgrading-react-version-and-its-dependencies-by-reading-package-json </p>
 
 <h3>Build react app</h3>
